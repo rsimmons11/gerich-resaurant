@@ -9,7 +9,7 @@
 
 ### [Live Site](https://gericht-restaurant.com/)
 
-![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
+![Restaurant Landing Page](public/imgs/santa-monica-pier.png)
 ---
 
 ## Description
