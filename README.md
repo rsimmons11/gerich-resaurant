@@ -1,5 +1,5 @@
 # Restaurant Landing Page
-### [Live Site]([https://gericht-restaurant.com/](https://eat-gerich.netlify.app/))
+### [Live Site](https://eat-gerich.netlify.app/)
 
 ![Restaurant Landing Page](https://i.ibb.co/5jxBKpw/image.png)
 
