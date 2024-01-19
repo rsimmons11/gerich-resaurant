@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/github/issues-pr/rsimmons11/readme-template?color=darkorange&label=Pull%20Requests&style=for-the-badge">
 </p>
 
-# Gerich Restaurant
+# Gericht Restaurant
 
 ### [Live Site](https://gericht-restaurant.com/)
 
